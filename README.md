@@ -62,7 +62,7 @@ No additional packages are required because `hashlib` is included with Python.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/namankarna0/Password-Authentication.git
+git clone https://github.com/namankarna0/Simple_Password_Authentication.git
 ```
 
 ### 2. Enter the project directory
